@@ -1,0 +1,30 @@
+header {
+    color: #04044b;
+    font-weight: 150%;
+
+    text-align: center;
+}
+
+h1 {
+    padding: 20px;
+}
+
+main {
+    text-align: center;
+    color: #04044b;
+}
+
+.description {
+    width: 300px;
+    margin: auto;
+    color: #04044b;
+}
+
+h2 {
+    padding: 20px;
+    color: #04044b;
+}
+
+html {
+    margin-down: 30px;
+}
